@@ -1,0 +1,11 @@
+out
+*.db
+.env
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+assets/
+samples/
+.idea/
